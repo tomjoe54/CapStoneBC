@@ -1,0 +1,15 @@
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\bin\Debug\CapStone02.exe.config
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\bin\Debug\CapStone02.exe
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\bin\Debug\CapStone02.pdb
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\bin\Debug\DataBase.exe
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\bin\Debug\EntityFramework.dll
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\bin\Debug\DataBase.pdb
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\bin\Debug\DataBase.exe.config
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\bin\Debug\EntityFramework.xml
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\obj\Debug\CapStone02.csprojResolveAssemblyReference.cache
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\obj\Debug\CapStone02.csproj.CoreCompileInputs.cache
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\obj\Debug\CapStone02.csproj.CopyComplete
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\obj\Debug\CapStone02.exe
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\obj\Debug\CapStone02.pdb
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\bin\Debug\EntityFramework.SqlServer.dll
+C:\storage\bellevue c# cert\capstone\toms\tomDBCapstone02\CapStone02\CapStone02\bin\Debug\EntityFramework.SqlServer.xml
